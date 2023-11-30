@@ -1,2 +1,3 @@
 echo "Good morning"
 echo "How are you?"
+echo "bye"
